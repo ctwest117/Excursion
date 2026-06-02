@@ -21,4 +21,7 @@ body {
 
 #copyright {
     color: gray;
+    text-align: right;
+    margin-top: auto;
 }
+
