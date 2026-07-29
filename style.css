@@ -2,12 +2,18 @@ h1 {
     font-size: 50px;
     color: white;
     text-align: center;
+    font-weight: 100;
 }
 
 h2 {
     color: white;
+    padding-bottom: 5px;
 }
 
+p {
+    color: white;
+    margin: auto, 10px;
+}
 
 .cta {
     color: aquamarine;
